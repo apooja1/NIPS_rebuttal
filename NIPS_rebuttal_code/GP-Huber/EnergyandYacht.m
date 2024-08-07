@@ -1,4 +1,4 @@
-% This script is used to obtain the results of the GP-Huber model on Neal dataset.
+% This script is used to obtain the results of the GP-Huber model on Neal dataset for rebuttal.
 %% Neal data
 % Model:
 % f = 0.3 + 0.4x + 0.5sin(2.7x) + 1.1/(1+x^2).
