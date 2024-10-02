@@ -1,2 +1,2 @@
-The code used to make results for the additional experiments conducted for the rebuttal of the paper Robust Gaussian Process Regression with Huber Likelihood. 
-The code in Matlab requires gpstuff package to be added in the path. And the code requires gpflow package. 
+The code used to obtain the results of the paper "Robust Gaussian process regression with Huber likelihood." Results for the additional experiments are included as well.
+The code in Matlab requires gpstuff and gpflow package to be added in the path.
